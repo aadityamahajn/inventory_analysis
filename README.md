@@ -1,1 +1,1 @@
-# inventory_analysis
+# Inventory Analysis
