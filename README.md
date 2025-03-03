@@ -8,7 +8,8 @@ The company provided six business operation datasets for the year ending
 * Purchase invoices for 2016
 * Purchase Price
 * Sales data
-[Link of dataset](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
+
+[Link of datasets](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074054.png)
 
