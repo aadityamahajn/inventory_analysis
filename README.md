@@ -28,7 +28,7 @@ https://github.com/aadityamahajn/inventory_analysis/blob/afd760d96b74cc3bfe4de3f
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-03-03%20080549.png)
 
-https://github.com/aadityamahajn/inventory_analysis/blob/db3bff7510b116f25f16ed72346fb7616b53ab37/data_wrangling.sql#L252-L255
+https://github.com/aadityamahajn/inventory_analysis/blob/db3bff7510b116f25f16ed72346fb7616b53ab37/data_wrangling.sql#L251-L255
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-03-03%20080933.png)
 
