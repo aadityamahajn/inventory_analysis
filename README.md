@@ -12,11 +12,11 @@ The company provided six business operation datasets for the year ending
 [Link of datasets](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
 
 ## Initial Observation
-1. Total SKUs: 11485
-2. Total current stock: 4885776
-3. Total revenue: $33,139,375.29
-4. Total profit: $10,862,291.04
-5. Items were sold for prices between $0.49 to $4,999.99
+1. **Total SKUs: 11485**
+2. **Total current stock: 4885776**
+3. **Total revenue: $33,139,375.29**
+4. **Total profit: $10,862,291.04**
+5. **Items were sold for prices between $0.49 to $4,999.99**
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074054.png)
 
