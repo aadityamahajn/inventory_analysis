@@ -9,7 +9,7 @@ The company provided six business operation datasets for the year ending
 * Purchase Price
 * Sales data
 
-[Link of datasets](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
+**[Link of datasets](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)**
 
 ## Objectives
 * Investigate the inventory flow, identify bottlenecks, and recommend strategies to streamline operations and optimize stock holding.
