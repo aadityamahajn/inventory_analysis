@@ -11,6 +11,10 @@ The company provided six business operation datasets for the year ending
 
 [Link of datasets](https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
 
+## Objectives
+* Investigate the inventory flow, identify bottlenecks, and recommend strategies to streamline operations and optimize stock holding.
+* Determine optimal inventory levels and create a plan to improve inventory accuracy and reduce holding costs.
+
 ## Initial Observation
 1. **Total SKUs: 11485**
 2. **Total current stock: 4885776**
