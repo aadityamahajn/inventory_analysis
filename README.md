@@ -1,6 +1,14 @@
 # Inventory Analysis
 
+## Overview
 Bibitor, LLC's substantial sales and inventory data overwhelm existing spreadsheet systems. This project will utilize robust data analysis to enhance inventory management and extract critical sales and purchase trends across their multiple retail locations.
+**The company provided six business operation datasets for the year ending**
+* Beginning inventory for 2016
+* Ending inventory for 2016
+* Purchase invoices for 2016
+* Purchase Price
+* Sales data
+Link of dataset(https://www.kaggle.com/datasets/bhanupratapbiswas/inventory-analysis-case-study)
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074054.png)
 
