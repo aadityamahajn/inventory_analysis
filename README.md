@@ -29,7 +29,15 @@ The company provided six business operation datasets for the year ending
 
 ABC analysis categorizes inventory based on their contribution to value, whether it's sales, profit, or stock volume.This method sorts items by importance, using metrics like revenue or inventory levels, to identify key contributors.SKUs are segmented into tiers using ABC analysis, highlighting those with the most significant impact on the business, measured by factors such as profit or sales.
 
+https://github.com/aadityamahajn/inventory_analysis/blob/dc943a573f9f7636eab2fbc5df936b2b5339a538/abc_analysis.sql#L21-L79
+
+**Display relative proportions of A, B, and C class inventory.**
+
+https://github.com/aadityamahajn/inventory_analysis/blob/dc943a573f9f7636eab2fbc5df936b2b5339a538/abc_analysis.sql#L83-L91
+
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074125.png)
+
+## XYZ Analysis
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074154.png)
 
