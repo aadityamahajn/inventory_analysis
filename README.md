@@ -21,8 +21,13 @@ The company provided six business operation datasets for the year ending
 3. **Total revenue: $33,139,375.29**
 4. **Total profit: $10,862,291.04**
 5. **Items were sold for prices between $0.49 to $4,999.99**
+6. **Top 5 SKUs:**
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074054.png)
+
+## ABC Analysis
+
+ABC analysis categorizes inventory based on their contribution to value, whether it's sales, profit, or stock volume.This method sorts items by importance, using metrics like revenue or inventory levels, to identify key contributors.SKUs are segmented into tiers using ABC analysis, highlighting those with the most significant impact on the business, measured by factors such as profit or sales.
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074125.png)
 
