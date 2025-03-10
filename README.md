@@ -36,6 +36,7 @@ https://github.com/aadityamahajn/inventory_analysis/blob/dc943a573f9f7636eab2fbc
 https://github.com/aadityamahajn/inventory_analysis/blob/dc943a573f9f7636eab2fbc5df936b2b5339a538/abc_analysis.sql#L83-L91
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074125.png)
+This company sells mostly a few popular items (A-class, 13% of products, but high volume), while carrying a vast range of rarely sold items (C-class, 70% of products, but low volume). They should consider streamlining their C-class offerings and potentially expanding popular A-class options to improve efficiency.
 
 ## XYZ Analysis
 
