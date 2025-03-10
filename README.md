@@ -40,6 +40,18 @@ https://github.com/aadityamahajn/inventory_analysis/blob/dc943a573f9f7636eab2fbc
 
 ## XYZ Analysis
 
+**Combining ABC (value) and XYZ (demand predictability) analysis refines inventory management.  XYZ uses sales quantity covariance to classify items as highly, moderately, or unpredictably demanded, complementing ABC's focus on item value.**
+
+https://github.com/aadityamahajn/inventory_analysis/blob/b4fc905643f0245204da50bc9881f7c0b9de09bc/xyz_analysis.sql#L7-L33
+
+**Calculate a normalized measure of sales quantity variability, acknowledging a simplified equal distribution assumption for frequently sold items, which in practice should be determined by specific, uneven thresholds.**
+
+https://github.com/aadityamahajn/inventory_analysis/blob/b4fc905643f0245204da50bc9881f7c0b9de09bc/xyz_analysis.sql#L51-L84
+
+**Display relative proportions of X, Y, and Z class inventory.**
+
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074154.png)
+
+## Recommended stock
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-28%20080908.png)
