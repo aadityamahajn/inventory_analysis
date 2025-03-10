@@ -52,6 +52,10 @@ https://github.com/aadityamahajn/inventory_analysis/blob/b4fc905643f0245204da50b
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-27%20074154.png)
 
+**The company's stable revenue and profit are primarily driven by its consistent 'X' class items, reflecting a healthy business model. However, the current inventory holds an excessive amount of 'Z' class stock, which requires careful evaluation.**
+
 ## Recommended stock
+
+**By combining EOQ and safety stock, businesses can achieve a balance between cost-effectiveness and customer service. The resulting "recommended stock" level provides a target for inventory management. It allows for the business to have enough stock to fill customer orders, while also not having to much stock sitting in storage.**
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-28%20080908.png)
