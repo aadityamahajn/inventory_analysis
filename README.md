@@ -59,3 +59,15 @@ https://github.com/aadityamahajn/inventory_analysis/blob/b4fc905643f0245204da50b
 **By combining EOQ and safety stock, businesses can achieve a balance between cost-effectiveness and customer service. The resulting "recommended stock" level provides a target for inventory management. It allows for the business to have enough stock to fill customer orders, while also not having to much stock sitting in storage.**
 
 ![image alt](https://github.com/aadityamahajn/inventory_analysis/blob/main/graphs/Screenshot%202025-02-28%20080908.png)
+
+## Final Observation
+1. **Total stock: 4,885,776**
+2. **Total understock: 284,803**
+3. **Total overstock: 2,712,878**
+4. **Recommended total stock: 2,457,701**
+5. **Possible stock reduction: 49.7%**
+
+## Recommendations based on Insights
+* **Inventory Imbalance**: Significant overstocking exists, especially in high-demand (A and X) classes, indicating over-investment.
+* **Missed Opportunities**: Understocking in other classes (C and Y) reveals under-investment, leading to potential lost sales.
+* **Forecasting Issues**: The company's forecasting is likely biased, overestimating demand for top sellers and underestimating demand for others.
